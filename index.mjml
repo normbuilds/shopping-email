@@ -1,0 +1,156 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image href="https://mjml.io" src="https://i.ibb.co/Fn2kKXb/logo.png" alt="Racoon logo" align="center" padding="20px" width="300px"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#401219" padding-top="50px">
+          <mj-navbar-link href="https://mjml.io" color="#498455" font-family="roboto" font-weight="700" font-size="18px">home</mj-navbar-link>
+          <mj-navbar-link href="https://mjml.io" color="#498455" font-family="roboto" font-weight="700" font-size="18px">blog</mj-navbar-link>
+          <mj-navbar-link href="https://mjml.io" color="#498455" font-family="roboto" font-weight="700" font-size="18px">store</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#C5D9C9" padding-bottom="0px" padding-top="0">
+      <mj-column width="200px">
+        <mj-text align="left" color="#000" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p style="font-size: 17px;">SPRING PROMO</p>
+          <p>40%</p>
+          <p>OFF</p>
+          <p style="font-size: 13px">Lorem ipsum dolor sit amet, consectetur adipiscing elit<br /></p>
+        </mj-text>
+        <mj-button background-color="#C5D9C9" color="#000" border="2px solid" font-size="16px" align="center" padding="15px 20px"  href="#" font-weight="800" padding-left="14px" padding-right="14px" padding-bottom="10px" padding-top="10">SHOP NOW</mj-button>
+      </mj-column>
+      <mj-column width="400px">
+        <mj-image src="https://i.ibb.co/2YyLGJV/unsplash-7-ZNLVl-Jchs.png" alt="Clothes set" align="center" border="none" width="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#844952" padding-bottom="0px" padding-top="0">
+      <mj-column width="25%">
+        <mj-image src="http://191n.mj.am/img/191n/3s/x4t.png" alt="Box free shipping" align="center" border="none" width="42px" padding-left="0px" padding-right="0px" padding-bottom="10px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="left" color="#fff" font-size="18px" font-family="roboto" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p>FREE SHIPPING ON ANY ORDER <span style="font-weight: bold;color: ;">OVER $150</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- gallery-->
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="10">
+      <!-- image1-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/5hHGNmg/Rectangle-3.png"  align="center" border="none" width="200px" height="200px" padding="10px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+       <!-- image2-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/4djNT3V/Rectangle-4.png" alt="Beyond backpack" align="center" border="none" width="200px" height="200px" padding="10px" ></mj-image>
+         <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+       <!-- image3-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/CH7c9wM/Rectangle-5.png" alt="Jensen shorts" align="center" border="none" width="200px" height="200px" padding="10px"></mj-image>
+         <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0px">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="10">
+      <!-- image1-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/5hHGNmg/Rectangle-3.png"  align="center" border="none" width="200px" height="200px" padding="10px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+       <!-- image2-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/4djNT3V/Rectangle-4.png" alt="Beyond backpack" align="center" border="none" width="200px" height="200px" padding="10px" ></mj-image>
+         <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+       <!-- image3-->
+      <mj-column vertical-align="top">
+        <mj-image src="https://i.ibb.co/CH7c9wM/Rectangle-5.png" alt="Jensen shorts" align="center" border="none" width="200px" height="200px" padding="10px"></mj-image>
+         <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0px">
+          <p>Iso Crewneck</p>
+          <p >$15</p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+    </mj-section>
+  
+  	<!--sales-card-->
+    <mj-section background-color="#C5D9C9" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/p0nCX7M/Rectangle-10.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text align="left" color="#000" font-family="roboto" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="10px">
+          <p style="font-size: 19px; padding-bottom: 10px;">Freak'em Sweat Suit</p>
+          <p style="font-size: 36px; padding-bottom: 10px; font-weight: 900;">$75</p>
+          <p>The Anderson Sweater features a floral all-over print with contrast colour.</p>
+        </mj-text>
+      <mj-button background-color="#C5D9C9" color="#000" font-size="16px" border="solid" align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#844952" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text align="left" color="#fff" font-family="roboto" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="10px">
+          <p style="font-size: 19px;">ALDER JONES JACKET</p>
+          <p style="font-size: 36px; padding-bottom: 0px; font-weight: 900;">$100</p>
+          <p style="padding-bottom:5px;">Colour-block design, zip entry, oxford hood lining, side pockets &amp; TC lining.</p>
+        </mj-text>
+        <mj-button background-color="#844952" color="#fff" font-size="16px" border="solid  #fff"  align="center" padding="15px 30px" border-radius="3px" href="https://mjml.io" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/XSMpRPG/Rectangle-11.png" alt="Man 2" align="center" border="none" width="302px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#D9C5C8" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p style="font-size: 14px;">DISCOVER OUR</p>
+          <p style="font-size: 27px;">SPRING COLLECTION</p>
+          <p style="font-size: 40px; font-weight:900;">40% Off!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!--footer-->
+    <mj-section background-color="#59232B" padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/Fn2kKXb/logo.png"  align="center" border="none" width="300px" padding-top="10"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;">Privacy policy</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="instagram" href="[[SHORT_PERMALINK]]"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>
